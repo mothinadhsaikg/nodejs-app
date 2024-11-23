@@ -1,0 +1,14 @@
+{
+    "name": "nodejs-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js project for CI/CD",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
